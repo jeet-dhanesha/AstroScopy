@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AstroScopy/static/css/main.8b3d49ff.chunk.css",
+    "main.js": "/AstroScopy/static/js/main.35016c8d.chunk.js",
+    "main.js.map": "/AstroScopy/static/js/main.35016c8d.chunk.js.map",
+    "runtime-main.js": "/AstroScopy/static/js/runtime-main.25272b9c.js",
+    "runtime-main.js.map": "/AstroScopy/static/js/runtime-main.25272b9c.js.map",
+    "static/js/2.35e25c09.chunk.js": "/AstroScopy/static/js/2.35e25c09.chunk.js",
+    "static/js/2.35e25c09.chunk.js.map": "/AstroScopy/static/js/2.35e25c09.chunk.js.map",
+    "static/js/3.1091e625.chunk.js": "/AstroScopy/static/js/3.1091e625.chunk.js",
+    "static/js/3.1091e625.chunk.js.map": "/AstroScopy/static/js/3.1091e625.chunk.js.map",
+    "index.html": "/AstroScopy/index.html",
+    "static/css/main.8b3d49ff.chunk.css.map": "/AstroScopy/static/css/main.8b3d49ff.chunk.css.map",
+    "static/js/2.35e25c09.chunk.js.LICENSE.txt": "/AstroScopy/static/js/2.35e25c09.chunk.js.LICENSE.txt",
+    "static/media/aquarius.73a3393f.png": "/AstroScopy/static/media/aquarius.73a3393f.png",
+    "static/media/aries.34231516.png": "/AstroScopy/static/media/aries.34231516.png",
+    "static/media/index.css": "/AstroScopy/static/media/backgroundImage.f58b036a.jpg",
+    "static/media/cancer.cc83b3ac.png": "/AstroScopy/static/media/cancer.cc83b3ac.png",
+    "static/media/capricorn.f569bb31.png": "/AstroScopy/static/media/capricorn.f569bb31.png",
+    "static/media/gemini.1705ecac.png": "/AstroScopy/static/media/gemini.1705ecac.png",
+    "static/media/leo.e5a2fa99.png": "/AstroScopy/static/media/leo.e5a2fa99.png",
+    "static/media/libra.965766ea.png": "/AstroScopy/static/media/libra.965766ea.png",
+    "static/media/logo.396e61c4.jpeg": "/AstroScopy/static/media/logo.396e61c4.jpeg",
+    "static/media/pisces.31900cf6.png": "/AstroScopy/static/media/pisces.31900cf6.png",
+    "static/media/sagittarius.217b4a25.png": "/AstroScopy/static/media/sagittarius.217b4a25.png",
+    "static/media/scorpio.e3588db3.png": "/AstroScopy/static/media/scorpio.e3588db3.png",
+    "static/media/taurus.3c510cbf.png": "/AstroScopy/static/media/taurus.3c510cbf.png",
+    "static/media/virgo.5064731e.png": "/AstroScopy/static/media/virgo.5064731e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25272b9c.js",
+    "static/js/2.35e25c09.chunk.js",
+    "static/css/main.8b3d49ff.chunk.css",
+    "static/js/main.35016c8d.chunk.js"
+  ]
+}
